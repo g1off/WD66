@@ -30,7 +30,7 @@ Photos:
 <img src="https://i.imgur.com/FjCnWen.jpg">
 </p>
 
-# You are welcome to fork, modify and produce it on your own, that said I would like to be in the know about production for profit, e-mail is on the Git-hub profile; also don't be an a*s, don't erase solder mask art))). Rough to-do list is below.
+# You are welcome to fork, modify and produce it on your own, that said I would like to be in the know about production for profit, work email is readily available on my github profile; also don't be an a*s, don't erase solder mask art))). Rough to-do list is below.
 
 # For ongoing development and planed features please refer to the [issues](https://github.com/gan11a/WD66/issues) page of WD66 Repository.
 
